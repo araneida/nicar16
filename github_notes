@@ -1,4 +1,4 @@
-# Github 101
+Github 101
 
 Anna Wiener, Github's terms of service support team
 Jordan McCullough, 
@@ -55,3 +55,24 @@ Settings - Collaborators
 Forks: anyone can copy this content. The copy ends up in your individual account.
 You can author the content to her, but she doesn't have to accept it.
 Offer changes up, change by change.
+
+Pull requests. A set of changes I want to address to my colleagues. Take all the docs, edit and upload.
+
+A change that's more of a suggestion can be branched. Choose "Create a new branch for this commit" when you commit. Name the branch. Like a bucket for all these changes.
+
+Assign someone to the branch - it can be yrself.
+
+Pull requests are stronger suggestions than issues.
+
+To incorporate the brance, click Merge pull request.
+
+
+
+
+
+
+
+
+
+
+
