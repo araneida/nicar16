@@ -1,0 +1,57 @@
+Github 101
+
+Anna Wiener, Github's terms of service support team
+Jordan McCullough, 
+
+Version control, follow changes over time
+
+Platform for collaborating on code.
+
+Repository - where you put your files. Like a folder.
+
+Asynchronous, transparent, everyone stays on the same page.
+
+A repository are logical units. Don't put totally different things in the same repository.
+
+Check Include a ReadMe. Info on the repo. 
+
+Markdown github format
+
+Produce stories faster.
+Editors, copy-editors, fact-checkers, production teams can work in tandem (and in different time zones).
+
+Transparency - see the stories and ideas your colleagues are developing
+
+Decentralized newsroom allows for greater insight across teams
+
+FiveThirtyEight has a data repo for each story they write
+
+NPR multimedia story Life After Death - St Louis Radio took their code and made One Year in Ferguson
+
+OpenFuego by Nieman Lab - a bot that curates and ranks the story your network is talking about
+
+government.github.com
+
+Learn: guides.github.com
+
+Issues: Comments from others on the repo
+
+When you commit - the first line is the main commit message, what did you change?
+
+Commit change. It shows up.
+
+Change of mindset. Show early drafts to colleagues.
+
+Emojis. :coffee: makes a cup of coffee!
+
+second part of commit "closes #1" -> no more issues
+
+@ mentions notifies ppl by email
+
+Give other users access to yr github.com repository.
+
+Settings - Collaborators
+
+Forks: anyone can copy this content. The copy ends up in your individual account.
+You can author the content to her, but she doesn't have to accept it.
+Offer changes up, change by change.
